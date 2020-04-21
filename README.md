@@ -1,12 +1,12 @@
 # Unstained White Blood Cell Detector
 
-GENERAL INFORMATION
+----------------------------------- GENERAL INFORMATION -----------------------------------
 
 Program 	  : Unstained White Blood Cell Detection 
 Description : Program untuk mendeteksi sel darah putih pada citra preparat tanpa pewarnaan
 
 
-BEFORE USING PROGRAM
+----------------------------------- BEFORE USING PROGRAM -----------------------------------
 
 Beberapa hal yang perlu diperhatikan sebelum menggunakan program:
 
@@ -23,9 +23,7 @@ Beberapa hal yang perlu diperhatikan sebelum menggunakan program:
 
 5. Detail penggunaan program dan informasi tombol dapat dilihat pada Manual Book program.
 
------------------------------------------------------------------------------------------
---------------------------------------- WARNING!!! --------------------------------------
------------------------------------------------------------------------------------------
+----------------------------------- WARNING!!! -----------------------------------
 [!!!] Segala file atau folder pada folder program SANGAT TIDAK DISARANKAN untuk dihapus, diubah, dimodifikasi, ataupun dipindahkan baik dalam bentuk pengubahan nama file/folder, pemindahan file/folder ke lokasi lain, dsb untuk menghindari adanya kesalahan/crash/error pada program [!!!]
 
 
