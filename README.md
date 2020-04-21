@@ -1,5 +1,7 @@
 # Unstained White Blood Cell Detector
 
+A system to detect the existance of white blood cell on unstained image preparations. 
+
 ----------------------------------- GENERAL INFORMATION -----------------------------------
 -------------------------------------------------------------------------------------------
 
