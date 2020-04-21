@@ -1,0 +1,4 @@
+1. cmd - "pyinstaller -F --noconsole --icon=Resource\\WBCicon.ico WBCRev5.py"
+2. setelah selesai, edit .spec file bagian hiddenimports
+	hiddenimports=['pywt','pywt._extensions._cwt','pywt._estentions._cwt'],
+3. cmd - "pyinstaller -F WBCRev5.spec"

@@ -1,0 +1,335 @@
+Image file: 1.JPG
+Testing date: 01-12-2018 14:59:29
+Detected WBC: 3
+Execution time: 0.7318158149719238
+---------------------------------------------
+Image file: 2.JPG
+Testing date: 01-12-2018 15:11:05
+Detected WBC: 1
+Execution time: 0.6078462600708008
+---------------------------------------------
+Image file: 3.JPG
+Testing date: 01-12-2018 15:11:42
+Detected WBC: 2
+Execution time: 0.49587583541870117
+---------------------------------------------
+Image file: 4.JPG
+Testing date: 01-12-2018 15:12:26
+Detected WBC: 0
+Execution time: 0.4958622455596924
+---------------------------------------------
+Image file: 5.JPG
+Testing date: 01-12-2018 15:13:28
+Detected WBC: 3
+Execution time: 0.48387837409973145
+---------------------------------------------
+Image file: 6.JPG
+Testing date: 01-12-2018 15:14:31
+Detected WBC: 2
+Execution time: 0.48787927627563477
+---------------------------------------------
+Image file: 7.JPG
+Testing date: 01-12-2018 15:14:56
+Detected WBC: 1
+Execution time: 0.531886100769043
+---------------------------------------------
+Image file: 8.JPG
+Testing date: 01-12-2018 15:16:11
+Detected WBC: 2
+Execution time: 0.47988271713256836
+---------------------------------------------
+Image file: 9.JPG
+Testing date: 01-12-2018 15:16:33
+Detected WBC: 1
+Execution time: 0.6038472652435303
+---------------------------------------------
+Image file: 10.JPG
+Testing date: 01-12-2018 15:17:14
+Detected WBC: 1
+Execution time: 0.49608659744262695
+---------------------------------------------
+Image file: 11.JPG
+Testing date: 01-12-2018 15:17:36
+Detected WBC: 2
+Execution time: 0.4958963394165039
+---------------------------------------------
+Image file: 12.JPG
+Testing date: 01-12-2018 15:18:09
+Detected WBC: 1
+Execution time: 0.4518880844116211
+---------------------------------------------
+Image file: 13.JPG
+Testing date: 01-12-2018 15:18:34
+Detected WBC: 0
+Execution time: 0.5158905982971191
+---------------------------------------------
+Image file: 14.JPG
+Testing date: 01-12-2018 15:18:55
+Detected WBC: 0
+Execution time: 0.49987173080444336
+---------------------------------------------
+Image file: 15.JPG
+Testing date: 01-12-2018 15:19:12
+Detected WBC: 1
+Execution time: 0.4958958625793457
+---------------------------------------------
+Image file: 16.JPG
+Testing date: 01-12-2018 15:19:33
+Detected WBC: 1
+Execution time: 0.48387861251831055
+---------------------------------------------
+Image file: 17.JPG
+Testing date: 01-12-2018 15:21:32
+Detected WBC: 2
+Execution time: 0.5718762874603271
+---------------------------------------------
+Image file: 18.JPG
+Testing date: 01-12-2018 15:24:03
+Detected WBC: 0
+Execution time: 0.7278285026550293
+---------------------------------------------
+Image file: 19.JPG
+Testing date: 01-12-2018 15:24:22
+Detected WBC: 2
+Execution time: 0.47188520431518555
+---------------------------------------------
+Image file: 20.JPG
+Testing date: 01-12-2018 15:25:18
+Detected WBC: 3
+Execution time: 0.5158741474151611
+---------------------------------------------
+Image file: 21.JPG
+Testing date: 01-12-2018 15:26:10
+Detected WBC: 1
+Execution time: 0.45590639114379883
+---------------------------------------------
+Image file: 22.JPG
+Testing date: 01-12-2018 15:27:08
+Detected WBC: 0
+Execution time: 0.5598607063293457
+---------------------------------------------
+Image file: 23.JPG
+Testing date: 01-12-2018 15:27:48
+Detected WBC: 1
+Execution time: 0.5198700428009033
+---------------------------------------------
+Image file: 24.JPG
+Testing date: 01-12-2018 15:28:07
+Detected WBC: 0
+Execution time: 0.4878981113433838
+---------------------------------------------
+Image file: 25.JPG
+Testing date: 01-12-2018 15:28:28
+Detected WBC: 2
+Execution time: 0.5238709449768066
+---------------------------------------------
+Image file: 26.JPG
+Testing date: 01-12-2018 15:28:51
+Detected WBC: 0
+Execution time: 0.4998779296875
+---------------------------------------------
+Image file: 27.JPG
+Testing date: 01-12-2018 15:29:20
+Detected WBC: 0
+Execution time: 0.4958806037902832
+---------------------------------------------
+Image file: 28.JPG
+Testing date: 01-12-2018 15:29:37
+Detected WBC: 1
+Execution time: 0.48388004302978516
+---------------------------------------------
+Image file: 29.JPG
+Testing date: 01-12-2018 15:30:19
+Detected WBC: 2
+Execution time: 0.4638833999633789
+---------------------------------------------
+Image file: 30.JPG
+Testing date: 01-12-2018 15:30:41
+Detected WBC: 1
+Execution time: 0.48387813568115234
+---------------------------------------------
+Image file: 31.JPG
+Testing date: 01-12-2018 15:30:57
+Detected WBC: 1
+Execution time: 0.4838981628417969
+---------------------------------------------
+Image file: 32.JPG
+Testing date: 01-12-2018 15:31:35
+Detected WBC: 1
+Execution time: 0.48787713050842285
+---------------------------------------------
+Image file: 33.JPG
+Testing date: 01-12-2018 15:32:24
+Detected WBC: 1
+Execution time: 0.46790385246276855
+---------------------------------------------
+Image file: 34.JPG
+Testing date: 01-12-2018 15:34:54
+Detected WBC: 2
+Execution time: 0.4998748302459717
+---------------------------------------------
+Image file: 35.JPG
+Testing date: 01-12-2018 15:36:02
+Detected WBC: 2
+Execution time: 0.5358664989471436
+---------------------------------------------
+Image file: 36.JPG
+Testing date: 01-12-2018 15:36:59
+Detected WBC: 0
+Execution time: 0.48387885093688965
+---------------------------------------------
+Image file: 37.JPG
+Testing date: 01-12-2018 15:38:02
+Detected WBC: 1
+Execution time: 0.47988176345825195
+---------------------------------------------
+Image file: 38.JPG
+Testing date: 01-12-2018 15:38:45
+Detected WBC: 0
+Execution time: 0.9797563552856445
+---------------------------------------------
+Image file: 39.JPG
+Testing date: 01-12-2018 15:39:09
+Detected WBC: 1
+Execution time: 0.5438847541809082
+---------------------------------------------
+Image file: 40.JPG
+Testing date: 01-12-2018 15:39:25
+Detected WBC: 2
+Execution time: 0.49587535858154297
+---------------------------------------------
+Image file: 41.JPG
+Testing date: 01-12-2018 15:40:26
+Detected WBC: 1
+Execution time: 0.5078752040863037
+---------------------------------------------
+Image file: 42.JPG
+Testing date: 01-12-2018 15:40:43
+Detected WBC: 1
+Execution time: 0.53586745262146
+---------------------------------------------
+Image file: 43.JPG
+Testing date: 01-12-2018 15:41:05
+Detected WBC: 1
+Execution time: 0.48387837409973145
+---------------------------------------------
+Image file: 44.JPG
+Testing date: 01-12-2018 15:41:37
+Detected WBC: 3
+Execution time: 0.45990514755249023
+---------------------------------------------
+Image file: 45.JPG
+Testing date: 01-12-2018 15:42:01
+Detected WBC: 1
+Execution time: 0.5118920803070068
+---------------------------------------------
+Image file: 46.JPG
+Testing date: 01-12-2018 15:43:00
+Detected WBC: 1
+Execution time: 0.5118913650512695
+---------------------------------------------
+Image file: 47.JPG
+Testing date: 01-12-2018 15:43:19
+Detected WBC: 1
+Execution time: 0.4838995933532715
+---------------------------------------------
+Image file: 48.JPG
+Testing date: 01-12-2018 15:43:55
+Detected WBC: 1
+Execution time: 0.47588300704956055
+---------------------------------------------
+Image file: 49.JPG
+Testing date: 01-12-2018 15:44:54
+Detected WBC: 0
+Execution time: 0.4439108371734619
+---------------------------------------------
+Image file: 50.JPG
+Testing date: 01-12-2018 15:45:23
+Detected WBC: 0
+Execution time: 0.5318665504455566
+---------------------------------------------
+Image file: 51.JPG
+Testing date: 01-12-2018 15:45:36
+Detected WBC: 3
+Execution time: 0.4518868923187256
+---------------------------------------------
+Image file: 52.JPG
+Testing date: 01-12-2018 15:46:10
+Detected WBC: 3
+Execution time: 0.4839777946472168
+---------------------------------------------
+Image file: 53.JPG
+Testing date: 01-12-2018 15:46:44
+Detected WBC: 0
+Execution time: 0.4998962879180908
+---------------------------------------------
+Image file: 54.JPG
+Testing date: 01-12-2018 15:47:00
+Detected WBC: 2
+Execution time: 0.5118718147277832
+---------------------------------------------
+Image file: 55.JPG
+Testing date: 01-12-2018 15:47:29
+Detected WBC: 1
+Execution time: 0.4998750686645508
+---------------------------------------------
+Image file: 56.JPG
+Testing date: 01-12-2018 15:47:53
+Detected WBC: 2
+Execution time: 0.4838988780975342
+---------------------------------------------
+Image file: 57.JPG
+Testing date: 01-12-2018 15:48:18
+Detected WBC: 1
+Execution time: 0.4479072093963623
+---------------------------------------------
+Image file: 58.JPG
+Testing date: 01-12-2018 15:49:28
+Detected WBC: 1
+Execution time: 0.5118904113769531
+---------------------------------------------
+Image file: 59.JPG
+Testing date: 01-12-2018 15:49:52
+Detected WBC: 0
+Execution time: 0.5558607578277588
+---------------------------------------------
+Image file: 60.JPG
+Testing date: 01-12-2018 15:50:08
+Detected WBC: 2
+Execution time: 0.4638838768005371
+---------------------------------------------
+Image file: 61.JPG
+Testing date: 01-12-2018 15:50:30
+Detected WBC: 1
+Execution time: 0.4958798885345459
+---------------------------------------------
+Image file: 62.JPG
+Testing date: 01-12-2018 15:50:53
+Detected WBC: 2
+Execution time: 0.5158710479736328
+---------------------------------------------
+Image file: 63.JPG
+Testing date: 01-12-2018 15:51:18
+Detected WBC: 1
+Execution time: 0.46788668632507324
+---------------------------------------------
+Image file: 64.JPG
+Testing date: 01-12-2018 15:51:38
+Detected WBC: 2
+Execution time: 0.5038745403289795
+---------------------------------------------
+Image file: 65.JPG
+Testing date: 01-12-2018 15:52:03
+Detected WBC: 2
+Execution time: 0.5398671627044678
+---------------------------------------------
+Image file: 66.JPG
+Testing date: 01-12-2018 15:52:36
+Detected WBC: 1
+Execution time: 0.4478878974914551
+---------------------------------------------
+Image file: 67.JPG
+Testing date: 01-12-2018 15:52:58
+Detected WBC: 0
+Execution time: 0.47588300704956055
+---------------------------------------------

@@ -1,0 +1,85 @@
+Image file: 17.JPG
+Testing date: 10-01-2019 21:45:45
+Detected WBC: 2
+Execution time: 0.8375184535980225
+---------------------------------------------
+Image file: 22.JPG
+Testing date: 13-01-2019 22:38:47
+Detected WBC: 0
+Execution time: 1.352234125137329
+---------------------------------------------
+Image file: 22.JPG
+Testing date: 13-01-2019 22:39:44
+Detected WBC: 2
+Execution time: 0.5110433101654053
+---------------------------------------------
+Image file: 34.JPG
+Testing date: 13-01-2019 22:40:01
+Detected WBC: 3
+Execution time: 0.49573564529418945
+---------------------------------------------
+Image file: 68.JPG
+Testing date: 13-01-2019 22:40:16
+Detected WBC: 2
+Execution time: 0.4637415409088135
+---------------------------------------------
+Image file: 1.JPG
+Testing date: 20-01-2019 15:22:49
+Detected WBC: 3
+Execution time: 0.651836633682251
+---------------------------------------------
+Image file: 15.JPG
+Testing date: 20-01-2019 15:23:37
+Detected WBC: 1
+Execution time: 0.42789244651794434
+---------------------------------------------
+Image file: 7.JPG
+Testing date: 20-01-2019 15:40:39
+Detected WBC: 1
+Execution time: 0.7158379554748535
+---------------------------------------------
+Image file: 18.JPG
+Testing date: 20-01-2019 15:58:07
+Detected WBC: 0
+Execution time: 0.7118186950683594
+---------------------------------------------
+Image file: 6.JPG
+Testing date: 20-01-2019 15:58:36
+Detected WBC: 2
+Execution time: 0.4718790054321289
+---------------------------------------------
+Image file: 18.JPG
+Testing date: 20-01-2019 15:58:49
+Detected WBC: 0
+Execution time: 0.48787879943847656
+---------------------------------------------
+Image file: 20.JPG
+Testing date: 20-01-2019 15:59:00
+Detected WBC: 3
+Execution time: 0.5518593788146973
+---------------------------------------------
+Image file: 19.JPG
+Testing date: 20-01-2019 15:59:21
+Detected WBC: 0
+Execution time: 0.5358841419219971
+---------------------------------------------
+Image file: 60.JPG
+Testing date: 20-01-2019 15:59:53
+Detected WBC: 2
+Execution time: 0.46790099143981934
+---------------------------------------------
+Image file: 1.JPG
+Testing date: 20-01-2019 16:54:46
+Detected WBC: 3
+Execution time: 1.4385647773742676
+---------------------------------------------
+Image file: 6.JPG
+Testing date: 20-01-2019 17:14:07
+Detected WBC: 2
+Execution time: 0.7085719108581543
+---------------------------------------------
+Image file: 16.JPG
+Testing date: 20-01-2019 17:14:14
+Detected WBC: 1
+Execution time: 0.49071407318115234
+---------------------------------------------
