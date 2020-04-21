@@ -5,8 +5,9 @@ A system to detect the existance of white blood cell on unstained image preparat
 ----------------------------------- GENERAL INFORMATION -----------------------------------
 -------------------------------------------------------------------------------------------
 
-Program 	  : Unstained White Blood Cell Detection 
-Description : Program untuk mendeteksi sel darah putih pada citra preparat tanpa pewarnaan
+Program		: Unstained White Blood Cell Detection 
+
+Description 	: Program untuk mendeteksi sel darah putih pada citra preparat tanpa pewarnaan
 
 
 ----------------------------------- BEFORE USING PROGRAM -----------------------------------
